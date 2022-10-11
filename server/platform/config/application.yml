@@ -1,0 +1,13 @@
+name: platform
+port: 8080
+mysql:
+  user: esns
+  passowrd: minxing123
+  dbname: sellplatform
+  port: 3306
+redis:
+  port: 6379
+  passowrd: 8Z6BwKyFyd
+etcd:
+  port: 6379
+  passowrd: test
